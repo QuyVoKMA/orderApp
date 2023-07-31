@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">OrderApp</string>
+    <string name="lunch_tray">Lunch Tray</string>
+    <string name="choose_entree">Choose Entree</string>
+    <string name="choose_side_dish">Choose Side Dish</string>
+    <string name="choose_accompaniment">Choose Accompaniment</string>
+    <string name="order_checkout">Order Checkout</string>
+    <string name="cancel">Cancel</string>
+    <string name="next">Next</string>
+    <string name="submit">Submit</string>
+    <string name="start">Start Order</string>
+    <string name="order_summary">Order Summary</string>
+    <string name="subtotal">Subtotal: %s</string>
+    <string name="tax">Tax: %s</string>
+    <string name="total">Total: %s</string>
+</resources>
